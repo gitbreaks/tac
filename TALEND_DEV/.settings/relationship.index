@@ -119,6 +119,10 @@
     "version" : "Latest",
     "type" : "context"
   }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "_0fi7FNc8EeqCH9uncZU0qw",
     "version" : "Latest",
     "type" : "joblet"
@@ -130,26 +134,6 @@
     "id" : "_RC8JEI1kEem0UsZzW9eKcg",
     "version" : "Latest",
     "type" : "joblet"
-  }, {
-    "id" : "DQTechnical",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataMasking",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQuality",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DataQualityDependencies",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
   }, {
     "id" : "TalendEncryption",
     "version" : "Latest",
