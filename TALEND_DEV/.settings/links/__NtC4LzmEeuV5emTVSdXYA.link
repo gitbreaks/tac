@@ -1,0 +1,61 @@
+{
+  "itemId" : "__NtC4LzmEeuV5emTVSdXYA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_kp3K0N-jEeupFLuk6IoN3w",
+    "parameterList" : [ {
+      "id" : "_kqom5d-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_DB"
+    }, {
+      "id" : "_kqom4d-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_USER_ID"
+    }, {
+      "id" : "_kqom4t-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_PWD"
+    }, {
+      "id" : "_kqom4N-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_ACCOUNT"
+    }, {
+      "id" : "_kqom5N-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_SCHEMA"
+    }, {
+      "id" : "_kqom49-jEeupFLuk6IoN3w",
+      "name" : "CONN_SF_WH"
+    }, {
+      "id" : "_AlZQMPSuEeumR7RhutDrDg",
+      "name" : "CONN_SF_aws_secret"
+    }, {
+      "id" : "_EeDbcfS8EeumR7RhutDrDg",
+      "name" : "CONN_SF_AWS_SECRET_KEY"
+    }, {
+      "id" : "_EeDbcPS8EeumR7RhutDrDg",
+      "name" : "CONN_SF_AWS_ACCESS_ID"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_znZhIN-jEeupFLuk6IoN3w",
+    "parameterList" : [ {
+      "id" : "_BuzgsN-kEeupFLuk6IoN3w",
+      "name" : "S3_URL"
+    }, {
+      "id" : "_katM4OBFEeuVY-6i8CLaDg",
+      "name" : "BUCKET_NAME"
+    }, {
+      "id" : "_96c9sOBFEeuVY-6i8CLaDg",
+      "name" : "FOLDER"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_hhi7wN-zEeuFKewfRq0PBw",
+    "parameterList" : [ {
+      "id" : "_hhvwEd-zEeuFKewfRq0PBw",
+      "name" : "SF_STAGE"
+    }, {
+      "id" : "_hhvwEt-zEeuFKewfRq0PBw",
+      "name" : "SF_LNDNG_TBL"
+    }, {
+      "id" : "_hhvwE9-zEeuFKewfRq0PBw",
+      "name" : "SF_SCD_TBL"
+    } ]
+  } ]
+}
