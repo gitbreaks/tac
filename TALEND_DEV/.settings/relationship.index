@@ -169,6 +169,49 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_86XaIAGgEeukH6qInCFVhw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_-7yUgILxEemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_D2qhMHVNEeuWtoUZ7IHaVg",
     "version" : "0.1",
     "type" : "job"
@@ -708,6 +751,61 @@
     "type" : "routine"
   }, {
     "id" : "_MCY6UJo0EeqCWqmxNFHcLA - customers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yNnQoPzLEeqB-tRGKCNQLA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Cf-2cPzNEeqB-tRGKCNQLA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_-7yUgILxEemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_LPABkAGaEeukH6qInCFVhw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_UDewIPzSEeqB-tRGKCNQLA - metadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
